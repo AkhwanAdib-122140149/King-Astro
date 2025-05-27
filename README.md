@@ -20,7 +20,13 @@ Referensi filter : https://vt.tiktok.com/ZSrvPcXbe/
 | 1      |  24 April 2025    |  Pengajuan judul topik    |      100%       |
 | 2      |  10 MEI 2025  |  Pendaftaran link Github dan pengumpulan Topik  |    100%   |
 | 3      |  15 MEI 2025  | Mulai Merencanakan pembuatan code                 | 100% |
-| 4      |  MEI  |              |     |
+| 4      |  17 MEI 2025 | Mencari Asset untuk tampilan             |  100%   |
+| 5      |  20 MEI 2025 | Mulai menerapkan code dan logika              |  100%   |
+| 6      |  21 MEI 2025 | Membuat code             |  100%   |
+| 7      |  24 MEI 2025 | Revisi ide dan konsep code program             |  100%   |
+| 8      | 27 MEI 2025 | Melakukan Push code program di github            |  80%   |
+| 9      |  27 MEI 2025 | Mulai Melakukan pengerjaan laporan              |  0%   |
+| 10      |  28 MEI 2025 | Melengkapi github yang kurang             |  0%   |
 
 
 ## 📅 Instruksi instalasi dan penggunaan program
