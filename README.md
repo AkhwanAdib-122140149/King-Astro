@@ -17,9 +17,9 @@ Referensi filter : https://vt.tiktok.com/ZSrvPcXbe/
 
 | Minggu | Tanggal         | Kegiatan                                | Progres                          |
 |--------|------------------|------------------------------------------|----------------------------------|
-| 1      |  24 April 2025    |  Pendaftaran link Github dan pengumpulan Topik   |      100%       |
+| 1      |  24 April 2025    |  Pengajuan judul topik    |      100%       |
 | 2      |  10 MEI 2025  |  Pendaftaran link Github dan pengumpulan Topik  |    100%   |
-| 3      |  MEI  |                 |  |
+| 3      |  15 MEI 2025  | Mulai Merencanakan pembuatan code                 | 100% |
 | 4      |  MEI  |              |     |
 
 
