@@ -30,13 +30,16 @@ Referensi filter : https://vt.tiktok.com/ZSrvPcXbe/
 
 
 ## 📅 Instruksi instalasi dan penggunaan program
-1. Menyediakan VSCode terlebih dahulu  
-Pastikan Untuk menginstall VScode Terlebih dahulu sebelum menjalankan program yang diberikan
-2. Menginstall Komponen Komponen mendukung  
+1. Menyediakan Visual Studio Code (VSCode) terlebih dahulu  
+Langkah pertama yang harus dilakukan adalah menyediakan dan menginstal Visual Studio Code (VSCode), yang merupakan code editor populer, ringan, dan mendukung berbagai bahasa pemrograman serta ekstensi pendukung.
+VSCode akan berperan sebagai platform utama untuk menulis, menjalankan, dan mengelola keseluruhan kode program ini dan nantinya VSCode akan digunakan sebagai media utama untuk menjalankan program atau filter King-Astro.  
+-Untuk menginstallnya secara gratis melalui situs resmi: https://code.visualstudio.com
+
+3. Menginstall Komponen Komponen mendukung  
 pencv-contrib-python==4.11.0.86  
 numpy==1.26.4  
 mediapipe==0.10.21  
 pygame==2.6.1  
-3. 
+4. 
 
 
