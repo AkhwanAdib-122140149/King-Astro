@@ -31,12 +31,12 @@ Referensi filter : https://vt.tiktok.com/ZSrvPcXbe/
 
 ## 📅 Instruksi instalasi dan penggunaan program
 1. Menyediakan VSCode terlebih dahulu
- Pastikan Untuk menginstall VScode Terlebih dahulu sebelum menjalankan program yang diberikan
+  Pastikan Untuk menginstall VScode Terlebih dahulu sebelum menjalankan program yang diberikan
 2. Menginstall Komponen Komponen mendukung
-opencv-contrib-python==4.11.0.86
-numpy==1.26.4
-mediapipe==0.10.21
-pygame==2.6.1
+  opencv-contrib-python==4.11.0.86
+  numpy==1.26.4
+  mediapipe==0.10.21
+  pygame==2.6.1
 3. 
 
 
