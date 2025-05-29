@@ -60,7 +60,7 @@ python -m venv env (bash)
 5. Menjalankan Program  
   Pada Tahap ini kita sudah berhasil menjalankan semua nya dan memasuki tahap terakhir dalam instruksi dan penggunaan program, dimana kita tinggal melakukan Run pada file atau program yang sudah di dwonload sebelumnya serta pastikan bahwa anda berada pada env yang sudah di install komponen komponen mendukung tadi, Maka program sudah bisa di jalankan dan selamat untuk bermain.
 
-#Terimakasih
+##Terimakasih
 
 
 
