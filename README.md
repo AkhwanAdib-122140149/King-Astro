@@ -25,9 +25,10 @@ Referensi filter : https://vt.tiktok.com/ZSrvPcXbe/
 | 5      |  20 MEI 2025 | Mulai menerapkan code dan logika              |  100%   |
 | 6      |  21 MEI 2025 | Membuat code             |  100%   |
 | 7      |  24 MEI 2025 | Revisi ide dan konsep code program             |  100%   |
-| 8      | 27 MEI 2025 | Melakukan Push code program di github            |  80%   |
-| 9      |  27 MEI 2025 | Mulai Melakukan pengerjaan laporan              |  0%   |
-| 10      |  28 MEI 2025 | Melengkapi github yang kurang             |  0%   |
+| 8      | 27 MEI 2025 | Melakukan Push code program di github            |  100%   |
+| 9      |  27 MEI 2025 | Mulai Melakukan pengerjaan laporan              |  50%   |
+| 10      |  28 MEI 2025 | Melengkapi github yang kurang             |  30%   |
+| 11      |  29 MEI 2025 | Melengkapi Laporan             |  0%   |
 
 
 ## 📅 Instruksi instalasi dan penggunaan program
