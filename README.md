@@ -1,6 +1,6 @@
 # King-Astro
 Repository ini dibuat untuk tugas besar matkul IF4021 (Teknologi Multimedia)  
-Dosen Pengampu : Martin Clinton Tosima Manullang, Ph.D.
+Dosen Pengampu : Martin Clinton Tosima Manullang, Ph.D.  
 Nama Tim : Pasukan King
 
 Anggota Tim:
