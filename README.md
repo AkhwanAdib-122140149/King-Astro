@@ -42,7 +42,7 @@ VSCode akan berperan sebagai platform utama untuk menulis, menjalankan, dan meng
 - Disini kita melakukan download foldernya terlebih dahulu sebelum bisa pada github pengembang yaitu (https://github.com/AkhwanAdib-122140149/King-Astro)  
 - Pada tahap ini pastikan untuk membuka folder proyek KING-Astro melalui komputer anda yaitu pada menu File > Open Folder agar semua file program dan konfigurasi yang sudah di download sebelumnya dapat dikenali dengan baik.
 
-3. Menyiapkan Virtual Environment (env)
+3. Menyiapkan Virtual Environment (env)  
   Sebelum menginstal dependensi , sangat disarankan untuk membuat virtual environment (env) terlebih dahulu. Virtual environment berfungsi untuk memisahkan pustaka-pustaka Python yang digunakan dalam proyek ini dari sistem Python utama, sehingga menghindari konflik versi dan menjaga lingkungan proyek tetap bersih dan terkontrol.
 - Langkah-langkah membuat virtual environment:
 python -m venv env (bash)  
