@@ -39,7 +39,7 @@ VSCode akan berperan sebagai platform utama untuk menulis, menjalankan, dan meng
 - Setelah berhasil menginstall VSCode, maka VSCode sudah bisa dijalankan pada komputer anda  
 
 2. Melakukan Download filter KING-Astro pada github
-- Disini kita melakukan download foldernya terlebih dahulu sebelum bisa pada github pengembang yaitu (https://github.com/AkhwanAdib-122140149/King-Astro)  
+- Disini kita melakukan download filternya terlebih dahulu sebelum melanjutkan tahap selanjutnya pada github pengembang yaitu (https://github.com/AkhwanAdib-122140149/King-Astro)  
 - Pada tahap ini pastikan untuk membuka folder proyek KING-Astro melalui komputer anda yaitu pada menu File > Open Folder agar semua file program dan konfigurasi yang sudah di download sebelumnya dapat dikenali dengan baik.
 
 3. Menyiapkan Virtual Environment (env)  
