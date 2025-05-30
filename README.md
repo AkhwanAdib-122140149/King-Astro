@@ -65,20 +65,36 @@ Buka terminal di folder proyek dan jalankan:
 
 ```bash
 python -m venv env
+```
 
 #### Aktifkan Environment:
 
 **🔹 Windows:**
 ```bash
 .\env\Scripts\activate
+```
 **🔹 MacOS/Linux:**
+```bash
 source env/bin/activate
+```
 
 ### 4. Install Dependensi  
 Pastikan virtual environment aktif, lalu instal pustaka berikut:
+```bash
 pip install opencv-contrib-python==4.11.0.86
 pip install numpy==1.26.4
 pip install mediapipe==0.10.21
 pip install pygame==2.6.1
+```
+💡 Tambahan: Instal ekstensi Jupyter di VSCode melalui marketplace.  
 
+### 5. Jalankan Program  
+✅ Pastikan semua dependensi telah terinstal dan environment aktif.
+🚀 Jalankan program menggunakan terminal:  
+```bash
+python game.py
+```
+Atau buka file main.ipynb dan klik Run jika menggunakan Jupyter Notebook.  
+## 🙏 Terima Kasih  
+#### Selamat mencoba dan semoga menyenangkan dalam memainkan game interaktif King-Astro! 🚀
 
