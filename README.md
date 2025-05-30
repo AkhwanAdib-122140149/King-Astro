@@ -34,15 +34,15 @@ Fitur utama:
 | 1      | 24 April 2025 | Pengajuan judul topik                             | ✅ 100% |
 | 2      | 10 Mei 2025   | Pendaftaran repositori GitHub & pengumpulan topik | ✅ 100% |
 | 3      | 15 Mei 2025   | Perencanaan awal kode program                     | ✅ 100% |
-| 4      | 17 Mei 2025   | Pengumpulan aset visual                           | ✅ 100% |
-| 5      | 20 Mei 2025   | Implementasi awal logika program                  | ✅ 100% |
-| 6      | 21 Mei 2025   | Pembuatan kode program                            | ✅ 100% |
-| 7      | 24 Mei 2025   | Revisi ide dan logika program                     | ✅ 100% |
-| 8      | 27 Mei 2025   | Push program ke GitHub                            | ✅ 100% |
-| 9      | 27 Mei 2025   | Mulai penulisan laporan                           | ✅ 100% |
-| 10     | 28 Mei 2025   | Penyempurnaan repositori GitHub                   | ✅ 100% |
-| 11     | 30 Mei 2025   | Finalisasi laporan                                | 80% |
-| 12     | 31 Mei 2025   | Pengumpulan Laporan di Github                     | 0% |
+| 3      | 17 Mei 2025   | Pengumpulan aset visual                           | ✅ 100% |
+| 3      | 20 Mei 2025   | Implementasi awal logika program                  | ✅ 100% |
+| 4      | 21 Mei 2025   | Pembuatan kode program                            | ✅ 100% |
+| 4      | 24 Mei 2025   | Revisi ide dan logika program                     | ✅ 100% |
+| 4      | 27 Mei 2025   | Push program ke GitHub                            | ✅ 100% |
+| 4      | 27 Mei 2025   | Mulai penulisan laporan                           | ✅ 100% |
+| 5     | 28 Mei 2025   | Penyempurnaan repositori GitHub                   | ✅ 100% |
+| 5     | 30 Mei 2025   | Finalisasi laporan                                | 80% |
+| 5     | 31 Mei 2025   | Pengumpulan Laporan di Github                     | 0% |
 ---
 
 ## 🛠️ Instruksi Instalasi dan Penggunaan
