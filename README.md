@@ -39,9 +39,9 @@ Fitur utama:
 | 6      | 21 Mei 2025   | Pembuatan kode program                         | ✅ 100% |
 | 7      | 24 Mei 2025   | Revisi ide dan logika program                  | ✅ 100% |
 | 8      | 27 Mei 2025   | Push program ke GitHub                         | ✅ 100% |
-| 9      | 27 Mei 2025   | Mulai penulisan laporan                        | 🟡 50% |
+| 9      | 27 Mei 2025   | Mulai penulisan laporan                        | 🟡 80% |
 | 10     | 28 Mei 2025   | Penyempurnaan repositori GitHub                | 🟡 30% |
-| 11     | 29 Mei 2025   | Finalisasi laporan                             | 🔴 0%  |
+| 11     | 29 Mei 2025   | Finalisasi laporan                             | 🟡 30% |
 
 ---
 
