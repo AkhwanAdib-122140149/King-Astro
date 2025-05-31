@@ -38,11 +38,11 @@ Fitur utama:
 | 3      | 20 Mei 2025   | Implementasi awal logika program                  | ✅ 100% |
 | 4      | 21 Mei 2025   | Pembuatan kode program                            | ✅ 100% |
 | 4      | 24 Mei 2025   | Revisi ide dan logika program                     | ✅ 100% |
-| 4      | 27 Mei 2025   | Push program ke GitHub                            | ✅ 100% |
+| 4      | 27 Mei 2025   | Push code program ke GitHub                            | ✅ 100% |
 | 4      | 27 Mei 2025   | Mulai penulisan laporan                           | ✅ 100% |
 | 5     | 28 Mei 2025   | Penyempurnaan repositori GitHub                   | ✅ 100% |
 | 5     | 30 Mei 2025   | Finalisasi laporan                                | 80% |
-| 5     | 31 Mei 2025   | Pengumpulan Laporan di Github                     | 0% |
+| 5     | 31 Mei 2025   | Pengumpulan Laporan ke Github                     | 0% |
 ---
 
 ## 🛠️ Instruksi Instalasi dan Penggunaan
@@ -101,15 +101,32 @@ Atau buka file main.ipynb dan klik Run jika menggunakan Jupyter Notebook.
 <p>
   <img src="Dokumentasi/awalmulai.png" alt="Awal Mulai" width="600" height="400">
 </p>
+
+Pada bagian tengah layar, terlihat wajah pengguna yang berhasil terdeteksi oleh sistem. Hal
+ini menunjukkan bahwa fitur pelacakan wajah (face tracking) dari pustaka MediaPipe sedang
+aktif dan digunakan sebagai metode input utama dalam permainan. Sebuah gambar pesawat
+(pesawat.png) ditampilkan tepat pada area hidung pengguna. Gambar ini berperan sebagai avatar
+pemain di dalam game, yang pergerakannya mengikuti posisi hidung pengguna yang terdeteksi
+secara real-time.
+
 #### Terkena Rintangan
 <p>
   <img src="Dokumentasi/kenarintangan.png" alt="Terkena Rintangan" width="600" height="400">
 </p>
 
+teks "GAME OVER" berwarna merah yang ditampilkan besar di tengah layar. Tulisan ini secara langsung memberi tahu pemain bahwa permainan telah
+dihentikan. Selain itu, terdapat lapisan gelap semi-transparan yang menutupi sebagian besar
+area permainan. Efek visual ini membantu mengarahkan perhatian pemain pada status “Game
+Over” dan membedakan antara kondisi permainan yang aktif dan permainan yang telah selesai.
+Tampilan ini ditampilkan oleh sistem saat variabel self.game_over bernilai True, yang diproses
+melalui metode _draw_ui.
+
 #### Lawan Musuh/Bos  
 <p>
   <img src="Dokumentasi/lawanboss.png" alt="Lawan Boss" width="600" height="400">
 </p>
+
+Terlihat wajah pemain dengan kondisi mulut terbuka, yang menunjukkan bahwa pemain sedang mengaktifkan mekanisme menembak. Hal ini sesuai dengan petunjuk di layar, yaitu "Buka Mulut untuk Menembak!". Avatar pesawat (menggunakan aset pesawat.png) tetap berada di area wajah, khususnya sekitar hidung, sebagai penanda posisi pemain dalam permainan. Sebuah proyektil berwarna biru terlihat meluncur dari arah pesawat menuju ke arah musuh, yang menjadi bukti bahwa aksi menembak sedang berlangsung.
 
 ## Link Video Demonstrasi
 ### [Link Google Drive](https://drive.google.com/drive/folders/1A0DDqJLNo2VBRvt1WeJqb8qXd8m5Ju2A?usp=sharing)
