@@ -111,6 +111,8 @@ Atau buka file main.ipynb dan klik Run jika menggunakan Jupyter Notebook.
   <img src="Dokumentasi/lawanboss.png" alt="Lawan Boss" width="600" height="400">
 </p>
 
+## Link Video Demonstrasi
+### [Link Google Drive](https://drive.google.com/drive/folders/1A0DDqJLNo2VBRvt1WeJqb8qXd8m5Ju2A?usp=sharing)
 ## 🙏 Terima Kasih  
 ### Selamat mencoba dan semoga menyenangkan dalam memainkan game interaktif King-Astro! 🚀
 
