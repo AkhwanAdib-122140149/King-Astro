@@ -41,8 +41,8 @@ Fitur utama:
 | 4      | 27 Mei 2025   | Push code program ke GitHub                            | ✅ 100% |
 | 4      | 27 Mei 2025   | Mulai penulisan laporan                           | ✅ 100% |
 | 5     | 28 Mei 2025   | Penyempurnaan repositori GitHub                   | ✅ 100% |
-| 5     | 30 Mei 2025   | Finalisasi laporan                                | 80% |
-| 5     | 31 Mei 2025   | Pengumpulan Laporan ke Github                     | 0% |
+| 5     | 30 Mei 2025   | Finalisasi laporan                                | ✅ 100% |
+| 5     | 31 Mei 2025   | Pengumpulan Laporan ke Github                     |✅ 100% |
 ---
 
 ## 🛠️ Instruksi Instalasi dan Penggunaan
