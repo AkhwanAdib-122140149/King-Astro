@@ -114,7 +114,7 @@ secara real-time.
   <img src="Dokumentasi/kenarintangan.png" alt="Terkena Rintangan" width="600" height="400">
 </p>
 
-teks "GAME OVER" berwarna merah yang ditampilkan besar di tengah layar. Tulisan ini secara langsung memberi tahu pemain bahwa permainan telah
+Teks "GAME OVER" berwarna merah yang ditampilkan besar di tengah layar. Tulisan ini secara langsung memberi tahu pemain bahwa permainan telah
 dihentikan. Selain itu, terdapat lapisan gelap semi-transparan yang menutupi sebagian besar
 area permainan. Efek visual ini membantu mengarahkan perhatian pemain pada status “Game
 Over” dan membedakan antara kondisi permainan yang aktif dan permainan yang telah selesai.
