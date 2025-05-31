@@ -95,6 +95,23 @@ pip install pygame==2.6.1
 python game.py
 ```
 Atau buka file main.ipynb dan klik Run jika menggunakan Jupyter Notebook.  
+---
+### Dokumentasi dan Penjelasan Hasil Running Program
+#### Awal Mulai
+<p>
+  <img src="Dokumentasi/awalmulai.png" alt="Awal Mulai" width="600" height="400">
+</p>
+
+
+#### Terkena Rintangan
+<p>
+  <img src="Dokumentasi/kenarintangan.png" alt="Terkena Rintangan" width="600" height="400">
+</p>
+
+#### Lawan Musuh/Bos
+<p>
+  <img src="Dokumentasi/lawanboss.png" alt="Lawan Boss" width="600" height="400">
+</p>  
 ## 🙏 Terima Kasih  
-#### Selamat mencoba dan semoga menyenangkan dalam memainkan game interaktif King-Astro! 🚀
+### Selamat mencoba dan semoga menyenangkan dalam memainkan game interaktif King-Astro! 🚀
 
