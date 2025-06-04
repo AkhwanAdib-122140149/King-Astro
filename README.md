@@ -87,7 +87,7 @@ pip install mediapipe==0.10.21
 pip install pygame==2.6.1
 ```
 atau  
-`` pip install -r requirements.txt ``  
+`` pip install -r requirement.txt ``  
 
 ### 5. Jalankan Program  
 ✅ Pastikan semua dependensi telah terinstal dan environment aktif.
