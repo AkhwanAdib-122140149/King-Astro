@@ -81,13 +81,8 @@ source env/bin/activate
 ### 4. Install Dependensi  
 Pastikan virtual environment aktif, lalu instal pustaka berikut:
 ```bash
-pip install opencv-contrib-python==4.11.0.86
-pip install numpy==1.26.4
-pip install mediapipe==0.10.21
-pip install pygame==2.6.1
+pip install -r requirements.txt
 ```
-atau  
-`` pip install -r requirement.txt ``  
 
 ### 5. Jalankan Program  
 ✅ Pastikan semua dependensi telah terinstal dan environment aktif.
