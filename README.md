@@ -86,7 +86,8 @@ pip install numpy==1.26.4
 pip install mediapipe==0.10.21
 pip install pygame==2.6.1
 ```
-💡 Tambahan: Instal ekstensi Jupyter di VSCode melalui marketplace.  
+atau  
+`` pip install -r requirements.txt ``  
 
 ### 5. Jalankan Program  
 ✅ Pastikan semua dependensi telah terinstal dan environment aktif.
